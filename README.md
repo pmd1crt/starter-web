@@ -8,3 +8,9 @@ Sample website with plenty of files AND lectures for demos
 
 # GIT and GITHUB Training
 this is famous and one of training course
+
+## GIT comparison
+Adding git comparison lectures
+
+## Git hub containt
+Comparison with repository
